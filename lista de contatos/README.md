@@ -41,13 +41,13 @@ Durante o desenvolvimento deste projeto foram utilizados:
 ### 1. Clone o repositório
 
 ```bash
-git clone URL_DO_SEU_REPOSITORIO
+git clone https://github.com/joseedmorais/Projetos-pyton.git
 ```
 
 ### 2. Entre na pasta do projeto
 
 ```bash
-cd lista-contatos-python
+cd lista de contatos
 ```
 
 ### 3. Execute o programa
